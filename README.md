@@ -1,2 +1,3 @@
 # COLOR-EXTRACTION
-This projects aims to extract color from an image. 
+This projects aims to extract colors from image using OpenCV library.
+
